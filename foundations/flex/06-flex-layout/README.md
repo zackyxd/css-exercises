@@ -16,7 +16,7 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 - The header and footer have padding.
 - The links in the header and footer are pushed to either side.
 - There is space between the links in the header and footer.
-- The footer has a light gray background (`#eeeeee`).
-- The logo, input and buttons are centered in the screen.
+- The footer has a light gray background (`#eeeeee`). x 
+- The logo, input and buttons are centered in the screen. x
 - The buttons have an appropriate amount of padding.
 - There is space between the logo, input and buttons.
