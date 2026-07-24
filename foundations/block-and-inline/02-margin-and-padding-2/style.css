@@ -13,8 +13,35 @@ body {
 .content,
 .button-container {
   background: dodgerblue;
+  font-size: 16px;
 }
 
 button {
   background: white;
+}
+
+/* Copying how solution did it to compare easier */
+
+.card {
+  padding: 16px 6px 6px;
+}
+
+.button-container {
+  padding: 8px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 16px;
+}
+
+.content {
+  margin-bottom: 16px;
+  padding: 16px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 16px 24px;
 }
